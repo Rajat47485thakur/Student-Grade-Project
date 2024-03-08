@@ -1,0 +1,6 @@
+when use .json and when .send and also the why we use the return in the code and  what does it do? if i don't use sometime it work but sometime not why?  // /controllers--- lineNo 13 
+
+
+Solution is the .json is used to return the responce in the formate of json but the send is used to  send that response as normal object.
+
+sendGrade app Password :alda jshy dzdg srsp
